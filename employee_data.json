@@ -1,0 +1,53 @@
+[
+    {
+        "id": "W001",
+        "certifications": [],
+        "skills": [
+            "Engineer",
+            "Project Coordinator",
+            "Project Manager"
+        ],
+        "name": "PA"
+    },
+    {
+        "id": "W002",
+        "certifications": [],
+        "skills": [
+            "Support Engineer"
+        ],
+        "name": "AS"
+    },
+    {
+        "id": "W003",
+        "certifications": [
+            "sertifikasi - Kompetensi"
+        ],
+        "skills": [
+            "Engineer"
+        ],
+        "name": "AZ"
+    },
+    {
+        "id": "W004",
+        "certifications": [
+            "sertifikasi - Kompetensi",
+            "sertifikasi - K3",
+            "sertifikasi - IT"
+        ],
+        "skills": [
+            "Engineer"
+        ],
+        "name": "AF"
+    },
+    {
+        "id": "W005",
+        "certifications": [
+            "sertifikasi - MR",
+            "sertifikasi - K3"
+        ],
+        "skills": [
+            "SE Coordinator"
+        ],
+        "name": "HI"
+    }
+]
