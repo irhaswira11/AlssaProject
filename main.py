@@ -160,8 +160,8 @@ def Home():
     st.title('Welcome to AlssaProjectSync Employee Placement Optimization')
     st.subheader("How to Use This Application")
     st.write("""
-    1. *Home*: View insights and results of the optimization process.
-    2. *Search Placement*: Find the best fit for your project based on input data.
+    1. *Home*: This page greets users with a welcome message and provides a brief overview of the application's main features.
+    2. *Search Placement*: This page allows users to search for and allocate employees to projects based on their competencies and the project's requirements.
     3. *Manage Data*: Create, read, update, delete about employees and certifications
     """)
 
